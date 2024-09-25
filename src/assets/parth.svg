@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Left curly bracket -->
+  <text x="30" y="160" font-family="Arial, sans-serif" font-size="200" fill="lightblue" text-anchor="middle">{</text>
+  
+  <!-- Name Text: MAHMOUD above and ALLAMA below -->
+  <text x="200" y="100" font-family="Arial, sans-serif" font-size="50" fill="White" font-weight="light" text-anchor="middle">MAHMOUD</text>
+
+  <!-- ALLAMA text below MAHMOUD -->
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="50" fill="white" font-weight="bold" text-anchor="middle">ALLAMA</text>
+  
+  <!-- Right curly bracket -->
+  <text x="370" y="160" font-family="Arial, sans-serif" font-size="200" fill="lightblue" text-anchor="middle">}</text>
+</svg>
