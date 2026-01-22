@@ -91,7 +91,7 @@ import {
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
-export const resumeLink ="https://drive.google.com/file/d/1dciqJrPjxiUA8iR4QCpDPsI10m1S91ef/view?usp=sharing";
+export const resumeLink ="https://drive.google.com/file/d/1lCMX_uXXwgvjB6r15tPUQIEgrErO9BF1/view?usp=sharing";
 export const repoLink = "https://github.com/ModAllama";
 
 
